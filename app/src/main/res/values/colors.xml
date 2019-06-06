@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33adff</color>
+    <color name="colorPrimaryDark">#008ae6</color>
+    <color name="colorAccent">#007acc</color>
+    <color name="btnSignup">#39796a</color>
+    <color name="btnSignIn">#99d440</color>
+    <color name="appBarOver">#e6ffee</color>
+    <color name="appBarOverlay">#145c56</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="grey_ivory">#4DB6AC</color>
+    <color name="orange">#F57F17</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#101010 </color>
+    <color name="black_shade">#303030 </color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="purple_400">#7E57C2</color>
+    <color name="teal">#009688</color>
+    <color name="ic_launch_background">#ffffff</color>
+
+</resources>

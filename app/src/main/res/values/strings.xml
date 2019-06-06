@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">E-Retailer</string>
+    <string name="title_activity_home">Menu Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Suggest to friends</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_up">REGISTER</string>
+    <string name="addToCart">Add to cart</string>
+    <string name="Product_detail_name">Product detail name</string>
+    <string name="Product_detail_price">1,000</string>
+    <string name="discount">Discount</string>
+    <string name="description">Description</string>
+    <string name="buy">BUY IT NOW</string>
+    <string name="started">Let\'s get started!</string>
+    <string name="login">Login</string>
+    <string name="use_number">use phone number</string>
+    <string name="signed_in_fmt">Signing in</string>
+    <string name="signed_out">you are signed out</string>
+    <string name="Oauth_client_ID">586529045246-v2p7fvmuehg1s8fqnb5bi134f81577dv.apps.googleusercontent.com</string>
+    <string name="terms">Terms of service</string>
+    <string name="agree_registration">By registration you agree to the</string>
+    <string name="join">Or join with :</string>
+    <string name="create">create account</string>
+    <string name="forgot">Forgot Password ?</string>
+    <string name="skip">skip</string>
+    <string name="guide">User\'s Guide</string>
+    <string name="update">Check for Update</string>
+    <string name="shipping">Shipping address</string>
+    <string name="category">Category</string>
+    <string name="destination">Destination</string>
+    <string name="order">Order total</string>
+    <string name="orderTitle">Orders</string>
+    <string name="confirm">confirm and pay</string>
+    <string name="checkout">check out</string>
+    <string name="total">Total :</string>
+    <string name="about">About Us</string>
+    <string name="invite">Invite a Friend</string>
+    <string name="area">Area</string>
+    <string name="done">done</string>
+    <string name="district">District</string>
+    <string name="division">Division</string>
+    <string name="county">Sub-county</string>
+    <string name="copy_right">Copyright &#169; 2019 Powered by E-Shop</string>
+    <string name="version">App Version 1.0.0</string>
+    <string name="about_info">The E-Shop app helps you find and purchase a wide selection of quality products direct from the seller\'s store. No matter where you are, you get access to awesome features all from the comfort of your home.</string>
+    <string name="already_have_account">Already have an account ?</string>
+    <string name="dont_have_account">Don\'t have an account</string>
+    <string name="easy_shop">E-Shop Uganda Membership Agreement</string>
+    <string name="acceptance">1. Acceptance of terms</string>
+    <string name="term_two"><b>1.2</b> Of this agreement including all the text and WAJOLU has issued or may release all kinds of rules in the future. All rules as an integral part of this agreement, and the agreement the body have the same legal effect. In addition to the clear statement separately</string>
+    <string name="term_one"><b>1.1</b> The following terms and conditions of the proposed is applicable to agreement between Easy Shop members and the platform, if you use the service indicates that you accept the following terms and conditions. If you don\'t accept all the terms and conditions or have any questions about the agreement, you should consult us</string>
+    <string name="agreement">This agreement is the contract concluded between you and EASY SHOP platform, it has the legal effect of the contract. Please read it carefully and be familiar with the following terms and conditions, please promise strictly abide by the provisions of this agreement.</string>
+    <string name="registered">2. Registered</string>
+    <string name="registered_one"><b>2.1</b> Users must be at least 18 years of age have the legal capacity of the corresponding rights and capacity of natural persons, legal persons or other organizations, independently bear legal responsibility</string>
+    <string name="registered_two"><b>2.2</b> Users should be honestly to E-Shop registration information, the user agree to provide the registered information is true, accurate, complete, legal and effective, and of any change of user registration information, should be timely update the registered information.</string>
+
+
+    <string-array name="spinner_items">
+        <item>Order being processed</item>
+        <item>Order being transported</item>
+        <item>Order delivered</item>
+    </string-array>
+    <string name="title_activity_tracking_order">TrackingOrder</string>
+    <string name="email">Email</string>
+</resources>
